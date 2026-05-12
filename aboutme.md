@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Rhian Mei G. Katigbak
+subtitle: rhiankatigbak@gmail.com
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Education
+DE LA SALLE UNIVERSITY 	                          					                         Manila
+Bachelor of Science in Computer Science and Master of Science in Computer Science (BSMSCS)           Present
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+DE LA SALLE UNIVERSITY - INTEGRATED SCHOOL				                         Manila
+Science, Technology, Engineering, and Mathematics (STEM) Strand	          		  		  2025
+Thesis title: Hydrogel Dressing with pH-Responsive Indicator for Wound Infection Detection
+GOLD - Outstanding Organization Member Award
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+MULTINATIONAL SACRED HEART SCHOOL, INC.		      		      	      Parañaque
+Junior High School									             		 2023
+Thesis title: An Assessment on Employability Skills of the Grade 10 students of Multinational 
+Sacred Heart School Inc.  S.Y. 2022-2023
+WITH HONORS	      
