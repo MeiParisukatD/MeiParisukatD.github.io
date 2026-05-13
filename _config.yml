@@ -42,18 +42,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "rhiankatigbak@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# social-network-links:
+# email: "rhiankatigbak@gmail.com"
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: MeiParisukatD
+# github: MeiParisukatD
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-   linkedin: https://www.linkedin.com/in/rhian-mei-katigbak-53b46436a/
+#  linkedin: https://www.linkedin.com/in/rhian-mei-katigbak-53b46436a/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
